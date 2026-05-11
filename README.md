@@ -223,19 +223,6 @@ python agent.py
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
----
-
-# Author
-
-Developed by Kavinda Sandaru
-
-Software Engineering Undergraduate
-Sri Lanka
-
 Main frontend dependencies:
 
 - react
@@ -549,3 +536,16 @@ python agent.py
 - Recommended minimum RAM: 8GB
 
 ---
+
+# License
+
+This project is licensed under the MIT License.
+
+---
+
+# Author
+
+Developed by Kavinda Sandaru
+
+Network Engineering Undergraduate
+Sri Lanka
