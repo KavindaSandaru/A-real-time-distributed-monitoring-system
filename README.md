@@ -2,8 +2,6 @@
 
 Enterprise-grade real-time infrastructure monitoring and device management platform built with MERN stack technologies.
 
-(<img width="1629" height="966" alt="image" src="https://github.com/user-attachments/assets/764ec886-88f7-4df8-8436-cae1f3d0589f" />)
-
 ---
 
 # Features
