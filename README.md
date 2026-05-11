@@ -184,8 +184,6 @@ python agent.py
 
 ---
 
-# Screenshots
-
 ## Dashboard
 - Real-time infrastructure monitoring
 - Live device metrics
